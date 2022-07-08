@@ -2,7 +2,9 @@
   <h1 align='center'>Robo-Gladiators</h1>
 
   <p align="center">
-    <img src="![game](https://user-images.githubusercontent.com/95864720/177950294-8c5ccb5d-b03d-4297-9136-a37fe496912a.png)">
+    <img src="![game](https://user-images.githubusercontent.com/95864720/177950847-3b265709-f19b-429b-995e-f26e8f563652.png)
+"
+
   </p>
 
   <p align="center">
