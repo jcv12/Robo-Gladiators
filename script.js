@@ -155,7 +155,7 @@ var randomNumber = function(min, max) {
         window.alert("You have lost your robot in battle! Game Over!");
         break;
       }
-    }
+    };
   
     // after loop ends, we are either out of player.health or enemies to fight, so run the endGame function
     endGame();
