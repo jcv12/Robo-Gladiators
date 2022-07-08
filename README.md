@@ -2,7 +2,7 @@
   <h1 align='center'>Robo-Gladiators</h1>
 
   <p align="center">
-    <img src="">
+    <img src="![game](https://user-images.githubusercontent.com/95864720/177950294-8c5ccb5d-b03d-4297-9136-a37fe496912a.png)">
   </p>
 
   <p align="center">
@@ -29,6 +29,8 @@
 
   ## Installation
   No installation needed
+  
+  https://jcv12.github.io/Robo-Gladiators/
 
   ## Usage
   No specific usage just have fun
